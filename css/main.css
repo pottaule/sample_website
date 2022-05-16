@@ -6,3 +6,47 @@
 .nav-spacing {
 	margin: 0 0 0 10px;
 }
+
+.image-link {
+	text-decoration: none;
+}
+
+.h-center {
+	text-align: center;
+	margin: 0 0 80px;
+}
+
+.image-display {
+	display: block;
+	margin: 0 auto;
+}
+
+.div-2 {
+	width: 500px;
+	margin: 20px auto;
+	padding: 30px;
+	background-color: #fafafa;
+}
+
+.image-display2 {
+	float: left;
+	margin: 0 40px 0 0;
+}
+
+.bq-1 {
+	font-style: italic;
+	font-size: 20px;
+}
+
+.span {
+	font-style: normal;
+	font-size: 24px;
+	font-weight: bold;
+	color: #ff0000;
+}
+
+.bq-2 {
+	padding: 2px 20px;
+	background-color: #cacaca;
+}
+
